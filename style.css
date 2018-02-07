@@ -1,0 +1,71 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+body {
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: grey;
+}
+
+.tekst {
+  padding-top: 10px;
+  background-color: white;
+}
+
+.form2 {
+  position: relative;
+  margin-left: 700px;
+  top: -20px;
+}
+
+#verhaal2 {
+  margin-left: 20px;
+}
+
+.form1 {
+  position: relative;
+  margin-left: 700px;
+  top: -20px;
+}
+#verhaal {
+  margin-left: 20px;
+}
+
+.headertekst {
+  margin-left: 10px;
+}
+
+.verzend {
+  margin-bottom: 20px;
+}
+
+footer{
+  position: relative;
+  left: 0;
+  top: 0;
+  padding: 3px;
+  width: 960px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+
+.paniektext {
+  margin-left: 10px;
+}
